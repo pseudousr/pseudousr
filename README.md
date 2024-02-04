@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development, Graphics Designing, Bioinformatics & NLP Concepts**
 
-- ⚡ Fun fact **I'm Lazy and tries to find easy ways to complete my tasks**
+- ⚡ Fun fact **I'm Lazy and try to find easy ways to complete my tasks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
